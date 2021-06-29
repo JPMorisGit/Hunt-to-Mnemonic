@@ -35,9 +35,7 @@ sudo apt-get install libmpc-dev
 sudo pip3 install simplebloomfilter  
 sudo pip3 install bitarray==1.9.2  
 sudo pip3 install mnemonic  
-sudo pip3 install bip-utils==1.6.0  
-sudo pip3 install --user gmpy2==2.1.0b5  
-sudo pip3 install ecdsa[gmpy2]  
+sudo pip3 install bip-utils  
   
   
 или  
